@@ -20,7 +20,6 @@ public class Calculator
         Scanner operators = new Scanner(System.in); 
         Scanner operands = new Scanner(System.in); 
     } 
-
     public int addition(int x, int y) 
     { 
        //return x + y; 
